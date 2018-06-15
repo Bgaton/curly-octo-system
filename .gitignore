@@ -16,7 +16,7 @@ eagle.epf
 *.job
 
 # CAM files
-*.$$$
+*.$$$="<ten_thounsand"><"10000"usd>
 *.cmp
 *.ly2
 *.l15
